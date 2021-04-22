@@ -1,0 +1,19 @@
+{
+  "name": "pip-2021-intro",
+  "version": "1.0.0",
+  "description": "This is how you use node to make a server.",
+  "main": "basic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Peperkoekje/node-intro.git"
+  },
+  "author": "Joris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Peperkoekje/node-intro/issues"
+  },
+  "homepage": "https://github.com/Peperkoekje/node-intro#readme"
+}
